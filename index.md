@@ -1,3 +1,11 @@
+# Rohan Shah's First CS193 Homework
+- The CS193 professors are amazing
+- The content of CS193 is very useful
+- CS193 is later in the day
+- My friends are in CS193
+- The things we learn in CS193 will translate to our careers
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
